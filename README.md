@@ -25,7 +25,7 @@ Here's what you might want to know:
 - 💪 - For my frontend coding I can tackle any vanilla `JavaScript` challenges but I usually prefer working with a framework like `React`, `Vue` or `AlpineJS` (depending on the needs). 
 - 🎨 - For styling my first choice is `TailwindCSS`, but I'm confortable with (probably all) the other frameworks as well.
 - 🌱 - I'm currently getting better at `TypeScript` in both back and front ends.
-- 👐 - Things I'd like to get the hang on next: [https://github.com/gatsbyjs/gatsby](Gatsby), [https://github.com/denoland/deno](Deno) and [https://github.com/snowpackjs/snowpack](Snowpack).
+- 👐 - Things I'd like to get the hang on next: [Gatsby](https://github.com/gatsbyjs/gatsby), [Deno](https://github.com/denoland/deno) and [Snowpack](https://github.com/snowpackjs/snowpack).
 - 👯 - Looking to collaborate on interesting open source projects.
 
 Shortcuts to my profile on different platforms:
