@@ -21,10 +21,11 @@ Father of two 👩‍👩‍👦‍👦, passionate about technology in general,
 Here's what you might want to know:
 
 - 😎 - I'm a `Laravel` fan boy 🤙 and will usually reach for `PHP` for my backend.
-- 💪 - For my frontend coding I can tackle any vanilla `JavaScript` challenges but I usually prefer working with a framework like `Vue`, `AlpineJS` or `React`. 
+- ⚡ - I'm confortable working with the `MERN stack` (`MongoDB` + `Express` + `ReactJS` + `NodeJS`). (or `PERN Stack`, with `PostgreSQL` instead of `MongoDB`)
+- 💪 - For my frontend coding I can tackle any vanilla `JavaScript` challenges but I usually prefer working with a framework like `React`, `Vue` or `AlpineJS` (depending on the needs). 
 - 🎨 - For styling my first choice is `TailwindCSS`, but I'm confortable with (probably all) the other frameworks as well.
-- 🌱 - I'm currently Learning `TypeScript` and trying to polish my `ReactJs` Skills.
-- ⚡ - My next goal is to get more confortable with the `MERN stack` (`MongoDB` + `Express` + `ReactJS` + `NodeJS`).
+- 🌱 - I'm currently getting better at `TypeScript` in both back and front ends.
+- 👐 - Things I'd like to get the hang on next: [https://github.com/gatsbyjs/gatsby](Gatsby), [https://github.com/denoland/deno](Deno) and [https://github.com/snowpackjs/snowpack](Snowpack).
 - 👯 - Looking to collaborate on interesting open source projects.
 
 Shortcuts to my profile on different platforms:
