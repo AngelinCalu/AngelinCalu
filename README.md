@@ -1,5 +1,9 @@
 ## Hi there, I'm Angelin👋
 
+[![Website](https://img.shields.io/website?label=angelin.calu.info&style=for-the-badge&url=https%3A%2F%2Fangelin.calu.info)](https://angelin.calu.info)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AngelinCalu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAngelinCalu&screen_name=AngelinCalu)
+[![Linkedin](https://img.shields.io/badge/Angelin%20Calu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelincalu/)
+
 <!--
 **AngelinCalu/AngelinCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,11 +29,5 @@ Here's what you might want to know:
 - 💪 - For my frontend coding I can tackle any vanilla `JavaScript` challenges but I usually prefer working with a framework like `React`, `Vue` or `AlpineJS` (depending on the needs). 
 - 🎨 - For styling my first choice is `TailwindCSS`, but I'm confortable with (probably all) the other frameworks as well.
 - 🌱 - I'm currently getting better at `TypeScript` in both back and front ends.
-- 👐 - Things I'd like to get the hang on next: [Gatsby](https://github.com/gatsbyjs/gatsby), [Deno](https://github.com/denoland/deno) and [Snowpack](https://github.com/snowpackjs/snowpack).
+- 👐 - Things I'd like to get the hang on next: (This list grew too big to display here 😄)
 - 👯 - Looking to collaborate on interesting open source projects.
-
-Shortcuts to my profile on different platforms:
-
-- My personal website: [https://angelin.calu.info](https://angelin.calu.info)
-- Make sure to follow me on Twitter at [@AngelinCalu](https://twitter.com/AngelinCalu)
-- [LinkedIn](https://www.linkedin.com/in/angelincalu/)
